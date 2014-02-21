@@ -1,0 +1,9 @@
+@if false == $is-silent {
+  .bg-red{
+    @include background-color(red);
+  }
+
+  .bg-green{
+    @include background-color(green);
+  }
+}

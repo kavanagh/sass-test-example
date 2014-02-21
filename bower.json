@@ -1,0 +1,8 @@
+{
+  "name": "sass-test-example",
+  "main": "main.scss",
+  "ignore": [
+    "test"
+  ],
+  "dependencies": {}
+}

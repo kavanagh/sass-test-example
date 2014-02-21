@@ -1,0 +1,16 @@
+{
+  "name": "sass-test-example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "tape": "~2.5.0",
+    "node-sass": "~0.8.1"
+  }
+}
