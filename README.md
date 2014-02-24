@@ -1,4 +1,4 @@
-# scss tests
+# scss tests [![Build Status](https://travis-ci.org/kavanagh/sass-test-example.png?branch=master)](https://travis-ci.org/kavanagh/sass-test-example)
 
 A trivial experiment showing basic tests to ensure your sass compiles and doesn't output css until the silent flag is turned off.
 
