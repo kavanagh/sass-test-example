@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var test = require('tape');
 var sass = require('node-sass');
 var bower = require('../bower.json');
