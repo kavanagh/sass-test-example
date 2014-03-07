@@ -27,3 +27,9 @@ or
 ```sh
 $ ./test/index.js
 ```
+
+If you need a watch task...
+
+```sh
+$ watch -d -n 2 npm test
+```
